@@ -1,4 +1,4 @@
-# Node-Red
+# Grafana
 Setting up grafana in a Docker container.
 
 ## Overview
